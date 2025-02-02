@@ -1,0 +1,201 @@
+/* Formatação banner*/
+
+.banner {
+    margin: 13vw 7vw 2vw 7vw;
+}
+.banner ul {
+    display: flex;
+    justify-content: space-between;
+}
+.banner h1 {
+    font-family: 'League Spartan';
+    color: #33A691;
+    font-size: 96px;
+    font-weight: normal;
+}
+.banner p {
+    font-size: 30px;
+    font-family: 'Abel';
+    line-height: 50px; 
+    margin: 30px 70px 30px 0;
+    text-align: justify;
+}
+.banner img {
+    height: 400px;
+    width: 610px;
+}
+
+
+/* Formatação células */
+
+.celulas {
+    display: flex;
+    justify-content: space-between;
+    padding: 3%;
+    border: 2px #9CD9CB solid;
+    margin: 5% 6% ;
+    border-radius: 10px;
+}
+
+.celulas p {
+    font-family: 'Abel';
+    text-align: end;
+    color: #33A691;
+    font-size: 140%;
+    text-align: justify;
+    margin: 0% 3% 0% 5% ;
+}
+
+.celulas h1 {
+    font-family: 'League Spartan';
+    margin: 3% 3% 3% 3% ;
+    font-size: 60px;
+    color: #9CD9CB;
+    font-weight: normal;
+}
+
+/* Formatação classes */
+
+.classes {
+    text-align: center;
+}
+
+.classes ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.classes h1 {
+    font-family:'League Spartan' ;
+    font-weight: normal;
+    color: #33A691;
+    font-size: 250%;
+    margin: 8% 0 5% 0;
+}
+
+.classes h2 {
+    font-family:'League Spartan' ;
+    font-weight: normal;
+    color: #9CD9CB;
+    font-size: 280%;
+    margin: 4% 2%;
+    
+}
+
+.classes li {
+    background-color: #33A691;
+    border-radius: 5px;
+    margin: 0 6%;
+
+}
+
+.classes p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 3%;
+    color: rgb(255, 255, 255);
+    font-size: 120%;
+    font-weight: normal;
+}
+
+.classes button {
+    padding: 3% 13%;
+    border-radius: 8px;
+    margin: 2%;
+}
+
+.classes a {
+    color: #33A691;
+}
+
+.classes img {
+    background-color: #33A691;
+    padding: 1% 47%;
+    margin: 4% 0;
+
+}
+
+
+
+/* Formatação metabolismo energético */
+
+.metabolismo {
+    margin: 0% 7%;
+}
+
+.metabolismo h1 {
+    text-align: center;
+    font-family: 'League Spartan' ;
+    font-weight: normal;
+    color: #33A691;
+    font-size: 300%;
+    margin: 5% 0;
+
+}
+
+.metabolismo ul {
+    display: flex;
+    justify-content: space-between;
+    border: 2px #33A691 solid;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+.metabolismo img {
+    width: 100%;
+    border-radius: 5px;
+    border: 3px #46d4b3 solid;
+}
+
+.metabolismo p {
+    font-family: 'Abel';
+    margin: 30px 70px 30px 0;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.divmeta {
+    display: flex;
+    justify-content: space-between;
+    margin: 3% 7%;
+}
+
+.divmeta h1 {
+    font-family:'League Spartan' ;
+    font-weight: normal;
+    line-height: 120%;
+    color: #33A691;
+    font-size: 260%;
+}
+
+.divmeta h2 {
+    font-family: 'League Spartan';
+    font-weight: normal;
+    color: #5eddbf;
+}
+
+.divmeta div {
+    padding: 3%;
+}
+
+.divmeta li {
+    border: 2px #196662 solid;
+    border-radius: 5px;
+    padding: 2%;
+    border-radius: 3px;
+    margin: 3% 0;
+}
+
+.divmeta h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #196662;
+    font-weight: normal;
+    font-size: 190%;
+}
+
+.divmeta p {
+    font-family: 'Abel';
+    font-size: 120%;
+    color: #000000;
+    text-align: justify;
+}
