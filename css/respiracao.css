@@ -1,3 +1,93 @@
 .banner {
     margin: 13vw 7vw 2vw 7vw;
 }
+
+.banner h1 {
+    text-align: center;
+    font-family: 'League Spartan';
+    font-weight: normal;
+    font-size: 320%;
+    color: #9CD9CB;
+}
+.banner ul {
+    display: flex;
+    justify-content: space-around;
+    margin: 5% 10%;
+}
+.banner li {
+    margin: 4%;
+}
+.banner ul li p {
+    font-family: 'Abel';
+    text-align: justify;
+    font-size: 150%;
+}
+.banner li:last-child {
+    width: 200%;
+    border: 2px #58ad99 solid;
+    border-radius: 5px;
+    padding: 2%;
+}
+.banner h3 {
+    font-family: 'League Spartan';
+    font-weight: normal;
+    font-size: 200%;
+    color: #1b6352;
+}
+.banner li:last-child p {
+    margin: 3% 0;
+}
+
+/* Formatação Mitocôndria */
+
+.mitocon {
+    margin: 2vw 7vw 2vw 7vw;
+}
+.mitocon h1 {
+    font-family: 'League Spartan';
+    font-weight: normal;
+    font-size: 400%;
+    color: #58ad99;
+    text-align: center;
+    margin: 3% 0;
+}
+.mitocon div {
+    display: flex;
+}
+.mitocon p {
+    font-family: 'Abel';
+    font-size: 130%;
+    margin: 3% 0;
+    text-align: justify;
+}
+.mitocon li {
+    margin: 4%;
+    border: 2px #86afa6 solid;
+    padding: 3%;
+    border-radius: 7px;
+    
+}
+
+.mitocon ul .primeira {
+    background-color: #3f8070;
+    color: white;
+}
+.mitocon h2 {
+    font-family: 'League Spartan';
+    font-weight: normal;
+    color: #3f8070;
+}
+
+.mitocon .segunda {
+    background-color: #3f8070;
+    color: white;
+}
+.mitocon .segunda h2 {
+    color: white;
+}
+
+.separa img {
+    background-color: #33A691;
+    padding: 1% 47%;
+    margin: 4% 0;
+}
