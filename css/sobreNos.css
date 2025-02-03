@@ -1,0 +1,45 @@
+.sobre {
+    margin: 13vw 7vw 2vw 7vw;
+    justify-content: space-around;
+}
+
+.sobre ul {
+    display: flex;
+    justify-content: space-around;
+}
+.sobre li {
+    border: 2px #33A691 solid;
+    padding: 3%;
+    border-radius: 7px;
+}
+.sobre img {
+    width: 150px;
+    height: 170px;
+    border-radius: 10px;
+}
+.sobre h1 {
+    color: #33A691;
+    font-family: 'League Spartan';
+    font-weight: normal;
+    font-size: 290%;
+    text-align: center;
+}
+.sobre p {
+    font-family: 'Abel';
+    font-size: 150%;
+    text-align: center;
+    margin: 2% 5%;
+}
+
+.sobre h3 {
+    font-family: 'League Spartan';
+    color: #33A691;
+    margin: 4% 0;
+}
+.sobre div {
+    text-align: left;
+}
+.sobre a {
+    color: black;
+    margin: 2% 0;
+}

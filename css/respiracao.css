@@ -1,7 +1,9 @@
 .banner {
     margin: 13vw 7vw 2vw 7vw;
 }
-
+span {
+    color: #08493d;
+}
 .banner h1 {
     text-align: center;
     font-family: 'League Spartan';
@@ -12,7 +14,7 @@
 .banner ul {
     display: flex;
     justify-content: space-around;
-    margin: 5% 10%;
+    margin: 1% 0%;
 }
 .banner li {
     margin: 4%;
@@ -90,4 +92,97 @@
     background-color: #33A691;
     padding: 1% 47%;
     margin: 4% 0;
+}
+
+
+/* Formatação Respiração Aeróbica */
+
+.respiracoes {
+    margin: 2vw 7vw 2vw 7vw;
+}
+
+.respiracoes h1 {
+    text-align: center;
+    font-family: 'League Spartan';
+    font-weight: normal;
+    color: #3f8070;
+    font-size: 300%;
+    margin: 3% 0;
+}
+
+.respiracoes ul {
+    display: flex;
+    margin: 5% 0;
+}
+
+.respiracoes li:last-child {
+    border: 2px #1b6352 solid;
+    padding: 3%;
+    border-radius: 5px;
+}
+
+.respiracoes p {
+    font-family: 'Abel';
+    font-size: 130%;
+    margin: 3% 0;
+    text-align: justify;
+}
+
+.respiracoes li {
+    margin: 0 5%;
+}
+
+.respiracoes h3 {
+    font-family: 'League Spartan';
+    color: #3f8070;
+    font-size: 140%;
+    margin: 2% 0;
+}
+
+.respiracoes h2 {
+    font-family: 'League Spartan';
+    font-weight: normal;
+    color: #1f5346;
+    font-size: 300%;
+}
+
+.respiracoes span {
+    color: #1b6352;
+    font-size: 120%;
+}
+
+
+/* Formatação Respiração Anaeróbica */
+
+.anaerob {
+    display: flex;
+    justify-content: space-between;
+    margin: 10% 7%;
+}
+
+.anaerob h1 {
+    font-family: 'League Spartan';
+    font-weight: normal;
+    color: #3f8070;
+    font-size: 300%;
+    margin: 3% 0;
+}
+.anaerob img {
+    border-radius: 7px;
+    border: 3px #1b6352 solid;
+    margin: 9% 0 0 0;
+}
+
+.anaerob p{
+    font-family: 'Abel';
+    font-size: 110%;
+    margin: 2% 0;
+    text-align: justify;
+}
+
+.anaerob li {
+    border: 2px #1b6352 solid;
+    padding: 3%;
+    border-radius: 5px;
+    margin: 0 0 3% 10%;
 }

@@ -1,7 +1,9 @@
 .banner{
         margin: 13vw 7vw 2vw 3vw;
 }
-
+span {
+    color: #08493d;
+}
 .banner ul {
     display: flex;
 }

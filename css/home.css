@@ -1,5 +1,7 @@
 /* Formatação banner*/
-
+span {
+    color: #08493d;
+}
 .banner {
     margin: 13vw 7vw 2vw 7vw;
 }

@@ -1,0 +1,164 @@
+span {
+    color: #08493d;
+}
+.banner {
+    margin: 13vw 7vw 2vw 7vw;
+}
+.banner ul {
+    display: flex;
+    justify-content: space-between;
+}
+.banner h1 {
+    font-family: 'League Spartan';
+    color: #33A691;
+    font-size: 450%;
+    font-weight: normal;
+}
+.banner p {
+    font-size: 150%;
+    font-family: 'Abel';
+    line-height: 30px; 
+    margin: 30px 70px 30px 0;
+    text-align: justify;
+}
+.banner img {
+    height: 80%;
+    width: 610px;
+    border: 2px #33A691 solid;
+    border-radius: 10px;
+}
+
+
+/* Formatação Processo */
+
+.processo {
+    display: flex;
+    margin: 5% 7% 0 7%;
+}
+.processo p{
+    font-size: 110%;
+    font-family: 'Abel';
+    line-height: 30px; 
+    margin: 20px 70px 30px 0;
+    text-align: justify;
+}
+.processo h2 {
+    font-family: 'League Spartan';
+    color: #33A691;
+    font-size: 350%;
+    font-weight: normal;
+    text-align: right;
+}
+.processo li {
+    border: 2px #33A691 solid;
+    padding: 2%;
+    border-radius: 7px;
+    margin: 0 13% 5% 0;
+}
+.processo img {
+    border: 2px #33A691 solid;
+    border-radius: 4px;
+    margin: 30% 0 0 0;
+}
+.processo h3 {
+    font-family: 'League Spartan';
+    color: #23927e;
+    font-size: 140%;
+}
+
+
+/* Formatação Etapas */
+
+
+.etapas h1 {
+    text-align: center;
+    color: #23927e;
+    font-family: 'League Spartan';
+    font-weight: normal;
+    font-size: 320%;
+    margin: 5% 0;
+}
+.etapas ul {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin: 0 7%;
+}
+.etapas li {
+    background-color: #23927e;
+    padding: 3%;
+    width: 30%;
+    border-radius: 7px;
+
+}
+.etapas h3 {
+    font-family: 'League Spartan';
+    font-weight: normal;
+    font-size: 150%;
+    color: #73c5b6;
+    margin: 0 0 5% 0;
+}
+.etapas p {
+    font-family: 'Abel';
+    font-size: 110%;
+    color: white;
+}
+
+.separa img {
+    background-color: #33A691;
+    padding: 1% 47%;
+    margin: 4% 0;
+}
+
+/* Formatação Cloroplasto */
+
+.cloroplasto {
+    margin: 3% 7%;
+}
+.cloroplasto ul {
+    display: flex;
+}
+
+.cloroplasto h1 {
+    color: #08493d;
+    font-family: 'League Spartan';
+    font-weight: normal;
+    font-size: 320%;
+}
+.cloroplasto p {
+    font-family: 'Abel';
+    font-size: 150%;
+    margin: 3% 0;
+}
+.cloroplasto img {
+    height: 80%;
+    margin: 0 0 0 9%;
+}
+
+
+.estrutura {
+    margin: 2% 7%;
+}
+
+.estrutura h1 {
+    text-align: center;
+    font-family: 'League Spartan';
+    font-weight: normal;
+    font-size: 280%;
+}
+.estrutura ul {
+    display: flex;
+    text-align: justify;
+    justify-content: space-around;
+}
+.estrutura li {
+    border: 2px #08493d solid;
+    border-radius: 7px;
+    padding: 2%;
+    width: 40%;
+    margin: 3% 0;
+}
+.estrutura p {
+    font-family: 'Abel';
+    font-size: 130%;
+}
