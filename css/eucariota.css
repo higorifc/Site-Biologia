@@ -145,7 +145,7 @@ span {
 .animal ul li {
     width: 30%;
     height: 500px;
-    background-color: #33A691;
+    border: 2px #125c4e solid;
     padding: 3%;
     border-radius: 6px;
     margin: 1% 0;
@@ -222,7 +222,7 @@ span {
 .vegetal ul li {
     width: 30%;
     height: 540%;
-    background-color: #33A691;
+    border: 2px #125c4e solid;
     padding: 3%;
     border-radius: 6px;
     margin: 1% 0;
